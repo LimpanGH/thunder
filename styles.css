@@ -1,0 +1,25 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;                     
+}
+
+
+
+.toptext {
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+    width: 300px;
+}
