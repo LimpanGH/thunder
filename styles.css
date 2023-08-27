@@ -10,16 +10,27 @@ body{
 }
 
 
-
 .toptext {
     text-align: center;
 }
+
 
 .p1 {
     text-align: center;
 }
 
+
+.inputfield {
+    text-align: center;
+}
+
+
 .input {
     text-align: center;
+    height: 25px;
     width: 300px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: black;
 }
